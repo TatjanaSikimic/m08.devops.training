@@ -35,8 +35,6 @@ services:
     hostname: agent-05
     command: sleep infinity
 
-
-
 volumes:
   jenkins_home:
 
